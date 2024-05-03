@@ -1,0 +1,240 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.page1{
+    height: 1068px;
+    width: 1955px;
+    background: url(Images/ФОН\ 1.png);
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+.p11{
+    font-weight: 800;
+   font-style: italic;
+    font-size: 96px;
+    line-height: 116.18px;
+    color:#60369D; 
+    font-family: Inter, sans-serif;
+    margin-left: 120px;
+    padding-top: 57px;
+}
+.navigation_list1{
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin: 0px;
+    margin-left: 15px;
+    margin-top: 128px;
+    padding: 0px;
+    gap: 40px 30px;
+    list-style: none;
+}
+li{
+    margin: 60px;
+}
+.page2{
+    width: 1920px;
+    height: 1846px;
+    background-color: #422E71;
+}
+.text1{
+    height: 602px;
+    width: 830px;
+    margin-left: 123px;
+    margin-top: 84px;
+    float: left;
+    padding: 0px;
+}
+.p21{
+    color: #FFF;
+    font-family: JejuGothic;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+}
+.img21{
+    margin-top: 65px;
+    float: right;
+    margin-right: 120px;
+}
+.text2{
+    width: 783px;
+    height: 969px;
+    color: #FFF;
+    float: right;
+    margin-right: 120px;
+    margin-top: 106px;
+}
+a{
+    color: #E8A82F;
+    text-decoration: none;
+}
+.img22{
+    margin-top: 119px;
+    margin-left: 117px;
+    float: left;
+}
+.p22{
+    font-family: JejuGothic;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+}
+h1{
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 800;
+    font-size: 40px;
+    font-style: italic;
+    line-height: 48px;
+}
+h2{
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 36px;
+    line-height: 43px;
+}
+.page3{
+    width: 1920px;
+    height: 1784px;
+    background-color: #F1AF3A;
+}
+.div31{
+    width: 1113px;
+    height: 782px;
+    float: left;
+    margin-top: 99px;
+}
+.img31{
+    display: block;
+    width: 972px;
+    height: 557px;
+    margin: 0 auto;
+}
+.p31{
+    text-align: center;
+    color: #4A306F;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 66.08px;
+}
+.div32{
+    width: 1080px;
+    height: 766px;
+    float: left;
+}
+.img32{
+    display: block;
+    margin: 0 auto;
+    width: 972px;
+    height: 569px;
+}
+.div33{
+    width: 633px;
+    height: 1646px;
+    float: right;
+    margin-top: 107px;
+}
+.img33{
+    width: 607px;
+    height: 1302px;
+    display: block;
+    margin: 0 auto;
+}
+.page4{
+    width: 1920px;
+    height: 1916px;
+    background-color: #686563;
+}
+.img41{
+    width: 680px;
+    height: 344.91px;
+    margin-left: 128px;
+    margin-top: 63px;
+}
+.img42{
+    width: 915px;
+    height: 915px;
+    float: right;
+    margin-top: 114px;
+    margin-right: 120px;
+}
+.p41{
+    font-family: "Inter", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 48px;
+    line-height: 58px;
+    color: #F2C621;
+}
+.div41{
+    width: 688px;
+    height: 522px;
+    margin-left: 128px;
+    margin-top: 100px;
+}
+.img43{
+    margin-top: 129px;
+    width: 901px;
+    height: 684px;
+    margin-left: 120px;
+}
+.div42{
+    width: 699px;
+    height: 522px;
+    float: right;
+    margin-top: 182px;
+    margin-right: 118px;
+}
+.page5{
+    width: 1920px;
+    height: 2036px;
+    background-color: #423F39;
+}
+.div51{
+    margin-top: 112px;
+    width: 632px;
+    height: 232px;
+    margin-left: 125px;
+    float: left;
+}
+.img51{
+    width: 1000px;
+    height: 744px;
+    float: right;
+    margin-top: 112px;
+    margin-right: 119px;
+}
+.div52{
+    width: 616px;
+    height: 696px;
+    margin-top: 56px;
+    margin-left: 120px;
+    float: left;
+}
+.p51{
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 48px;
+    line-height: 58.05px;
+}
+.img52{
+    height: 568.27px;
+    width: 1108px;
+    float: left;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+.div53{
+    float: right;
+    width: 547px;
+    height: 696px;
+    margin-right: 111px;
+    margin-top: 136px;
+}
