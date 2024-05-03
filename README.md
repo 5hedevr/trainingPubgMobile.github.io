@@ -1,1 +1,0 @@
-# trainingPubgMobile.github.io
